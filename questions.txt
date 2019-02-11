@@ -98,3 +98,5 @@ What is the Capital of Wisconsin?
 Madison
 What is the Capital of Wyoming?
 Cheyenne
+What is your favorite color?
+Blue
